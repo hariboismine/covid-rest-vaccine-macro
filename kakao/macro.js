@@ -35,7 +35,7 @@
             y: ${ coords[1] }
           }
         }`);
-      })("복사한 URL을 여기에 입력")
+      })("https://m.place.naver.com/rest/vaccine?vaccineFilter=used&x=128.6796585&y=35.2055568&bounds=128.4159866%3B35.1137733%3B128.9433304%3B35.2972368")
  * 5. 출력된 값을 가지고 아래 소스 중 "coords:"" 부분의 값을 변경한다.
  */
 
